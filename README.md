@@ -47,7 +47,7 @@
 
  | Github Stats | Current Strek  |
 | --- | --- |
-| ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajraj98&show_icons=true&theme=tokyonight)|[![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com?user=nirajraj98&theme=tokyonight)](https://git.io/streak-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pankajsharma8221&theme=tokyonight)](https://git.io/streak-stats) |
+| ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajraj98&show_icons=true&theme=tokyonight)|[![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com?user=nirajraj98&theme=tokyonight)](https://git.io/streak-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirajraj98&theme=tokyonight)](https://git.io/streak-stats) |
 <!-- Theme color -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 | Top Languages | Contribution Graph  |
