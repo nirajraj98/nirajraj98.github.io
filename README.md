@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.io/u/nirajraj00.nk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pankaj sharma" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/nirajraj00.nk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="niraj kumar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pankaj-sharma-62ba8b22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj sharma" height="30" width="40" /></a>
 
 
@@ -52,10 +52,10 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankajsharma8221&show_icons=true&theme=cobalt" alt="Pankaj's Language stats" /> | [![Pankaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pankajsharma8221&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/Pankajsharma8221/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajraj98&show_icons=true&theme=cobalt" alt="niraj's Language stats" /> | [![Niraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=nirajraj98&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/nirajraj98/github-readme-activity-graph) |
 
 
-![GitHub metrics](https://metrics.lecoq.io/Pankajsharma8221) 
+![GitHub metrics](https://metrics.lecoq.io/nirajraj98) 
 
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
 
