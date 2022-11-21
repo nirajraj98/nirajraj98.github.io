@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c38df02.css",
-    "main.js": "/static/js/main.0097bc34.js",
+    "main.css": "/static/css/main.c0cfc87f.css",
+    "main.js": "/static/js/main.a93e7bab.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/shop1.PNG": "/static/media/shop1.13913f901c819978f8d8.PNG",
     "static/media/bluefly.PNG": "/static/media/bluefly.9635aa6de31cdbb5b101.PNG",
@@ -10,17 +10,16 @@
     "static/media/shine.PNG": "/static/media/shine.9c9153a9e11f554abd67.PNG",
     "static/media/Niraj_Kumar_ Resume.pdf": "/static/media/Niraj_Kumar_ Resume.2a1f3b60d53e054efefa.pdf",
     "static/media/shepora.PNG": "/static/media/shepora.9ca1cd0b7b63136e279e.PNG",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.d3ad205b1bba2577bdf0.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.5c38df02.css.map": "/static/css/main.5c38df02.css.map",
-    "main.0097bc34.js.map": "/static/js/main.0097bc34.js.map",
+    "main.c0cfc87f.css.map": "/static/css/main.c0cfc87f.css.map",
+    "main.a93e7bab.js.map": "/static/js/main.a93e7bab.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c38df02.css",
-    "static/js/main.0097bc34.js"
+    "static/css/main.c0cfc87f.css",
+    "static/js/main.a93e7bab.js"
   ]
 }
